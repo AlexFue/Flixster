@@ -10,9 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78986a92-6cc2-43ca-85a0-35fa061c1d97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78986a92-6cc2-43ca-85a0-35fa061c1d97" name="Default Changelist" comment="added second gif of functionality" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601332094521</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added second gif of functionality">
+      <created>1601439771565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601439771569</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -306,11 +311,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="997" height="806" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="805" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.28691098" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19599427" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -325,7 +330,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.2398317" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32913166" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.2464986" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2464986" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -338,7 +343,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Enabled click on movie to see the trailer of the current movie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enabled click on movie to see the trailer of the current movie" />
+    <MESSAGE value="added second gif of functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="added second gif of functionality" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/flixster/ExampleUnitTest.java">
