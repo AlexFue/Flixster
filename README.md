@@ -20,12 +20,10 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-
 <img src="walkthrough2.gif" width=250><br>
 
 ### Notes
-
-Describe any challenges encountered while building the app.
+When initializing your JSONobject movie variables in Movie.java, make sure you copy and paste the exact keys you are looking for. I made a mistake of not doing so and it made me debug for a bit trying to figure out what was wrong. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
@@ -50,11 +48,10 @@ Describe any challenges encountered while building the app.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-
 <img src="walkthrough.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+When using built in Android Studio or java functions, make sure you tab them so it auto completes them for you. Some of the functions may need libraries and not tabbing could possibly not install them or give you errors. So I recommend to tab everything. 
 
 ### Open-source libraries used
 
