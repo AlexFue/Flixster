@@ -51,7 +51,7 @@ When initializing your JSONobject movie variables in Movie.java, make sure you c
 <img src="walkthrough.gif" width=250><br>
 
 ### Notes
-When using built in Android Studio or java functions, make sure you tab them so it auto completes them for you. Some of the functions may need libraries and not tabbing could possibly not install them or give you errors. So I recommend to tab everything. 
+When using built in Android Studio or java functions, make sure you tab them so it auto completes them for you. Some of the functions may need libraries and not tabbing could possibly not install them or give you errors. So I recommend to tab everything. Also, make sure you create a file to only put your API key and insert that file into your git.ignore, that way you won't have to worry about your key being used by someone else and having to nuke your repository like I did. 
 
 ### Open-source libraries used
 
